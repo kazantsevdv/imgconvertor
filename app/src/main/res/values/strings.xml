@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">imgconvertor</string>
+    <string name="convert_jpeg_to_png">Convert JPEG to PNG</string>
+    <string name="create_jpeg_from_cam">Create JPEG from cam</string>
 </resources>
